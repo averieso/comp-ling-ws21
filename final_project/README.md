@@ -4,10 +4,10 @@ This is the final project of the course. I investigated whether word alignments 
 
 * Files submitted:
    * The Effects of Pivot Language on Word Alignment Quality.pdf: report
-   * proj_funcs.py: contains all functions to run the scripts
-   * training.py; runs a training of all the models mentioned in the paper and saves the alignment results to files
-   * analyse_phrases.py: reads alignment files from various models and outputs unique phrases from baseline vs pivot model for a chosen sentence
-   * jhu_evaluation: a folder taken directly from [jhu mt class](http://mt-class.org/jhu/)
+   * `proj_funcs.py`: contains all functions to run the scripts
+   * `training.py`: runs a training of all the models mentioned in the paper and saves the alignment results to files
+   * `analyse_phrases.py`: reads alignment files from various models and outputs unique phrases from baseline vs pivot model for a chosen sentence
+   * `jhu_evaluation`: a folder taken directly from [jhu mt class](http://mt-class.org/jhu/)
 	contains modified files of `hansards.a`, `hansards.e` and `hansards.f`
 	contains trained models mentioned in the paper, so they can be evaluated immediately \
 		baseline = `ibm100k20it` \
