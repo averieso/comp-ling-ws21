@@ -32,3 +32,6 @@ This is the final project of the course. I investigated whether word alignments 
    * to get AER, enter the `jhu_evaluation` directory. Same procedure as in mt-class. 
 * runtime: 
    * for 1 iteration with a corpus of 100k sentences: 142.08 s
+   
+## References
+Kumar, S., Och, F., & Macherey, W. (2007). Improving Word Alignment with Bridge Languages. EMNLP-CoNLL 2007, 42.
