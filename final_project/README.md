@@ -25,7 +25,7 @@ This is the final project of the course. I investigated whether word alignments 
 	- you will be prompted to input the desired number of iterations
 	- the alignment files will be saved automatically to the current directory
 	- you will be prompted to input the desired filename for each model
-   * '`ython analyse_phrases.py` to get phrase analysis of a particular sentence
+   * `python analyse_phrases.py` to get phrase analysis of a particular sentence
 	- Table 2 from the paper will be printed
 	- Table 3 from the paper will be printed
 	- you will be prompted to choose which sentence from 0-100 to analyse, which is line 100-200 of the europarl corpus
