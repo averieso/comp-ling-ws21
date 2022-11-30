@@ -1,1 +1,0 @@
-# pivoted-word-alignment
